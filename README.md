@@ -6,11 +6,10 @@ This project aims to develop a meter that allows users to move a price range sli
 - HTML 
 - CSS
 - JavaScript
-``
 
 ## Project Approach
 
-
+``
 1. Create the HTML Structure using HTML tags, like <div>, <h2>, for the heading, <p> to display the instructions, HTML input tags to enter a required range and give also Class name to each div.
 2. Create CSS and use it to style the HTML structure using class and elements.
 3. The JavaScript will give the functionality to the price range slider element using document method querySelector().
