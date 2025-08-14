@@ -6,7 +6,7 @@ This project aims to develop a meter that allows users to move a price range sli
 - HTML 
 - CSS
 - JavaScript
-
+```
 ## Project Approach
 ```
 1. Create the HTML Structure using HTML tags, like <div>, <h2>, for the heading, <p> to display the instructions, HTML input tags to enter a required range and give also Class name to each div.
@@ -15,3 +15,4 @@ This project aims to develop a meter that allows users to move a price range sli
 4. Add aventListeners to price and range input elements.
 5. Handle the price input changes by Updating the slider and input values based on conditions
 6. Handle the range input change by Adjusting the input values to meet the price input values and slider positions. 
+```
